@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 /target/
+=======
+/bin/
+>>>>>>> refs/remotes/pomars/master
+/.project
+/.gitignore
+/.classpath
+/README.md
